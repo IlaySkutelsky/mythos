@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/<mythos>/precache-manifest.1fa25ecdbf445b2fc0322873a3551e15.js"
+  "/<mythos>/precache-manifest.3e2cfa0615c3ffceb5e271366873d089.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "smadar-one-pager"});
