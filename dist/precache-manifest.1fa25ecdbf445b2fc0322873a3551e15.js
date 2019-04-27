@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/<mythos>/js/about.69260e02.js"
   },
   {
-    "revision": "edb4a0f0de2f9964424b5765cd160402",
+    "revision": "c5b44883f6a29ffab63da28e5296af87",
     "url": "/<mythos>/index.html"
   },
   {
