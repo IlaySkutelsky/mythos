@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/img/envelope.51c0182d.svg"
   },
   {
-    "revision": "57cf097931a13bae6654",
-    "url": "/js/app.353f1fa4.js"
+    "revision": "f8d22bafc029df462921",
+    "url": "/js/app.23735773.js"
   },
   {
     "revision": "95fef60db00fbb1dec63",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/js/about.69260e02.js"
   },
   {
-    "revision": "4508e826428dd8b66c54d014b9bdc515",
+    "revision": "4485a58c757b4a2d3a675e4198bd524a",
     "url": "/index.html"
   },
   {
@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/img/arpilit-logo.f316496c.png"
   },
   {
-    "revision": "57cf097931a13bae6654",
-    "url": "/css/app.466b7f5e.css"
+    "revision": "f8d22bafc029df462921",
+    "url": "/css/app.35e5a05d.css"
   }
 ];
