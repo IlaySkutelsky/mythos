@@ -5,7 +5,8 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "start": "node server.js"
+    "start": "node server.js",
+    "deploy": "sh deploy.sh"
   },
   "dependencies": {
     "core-js": "^2.6.5",
