@@ -12,23 +12,23 @@ self.__precacheManifest = [
     "url": "/mythos/img/envelope.51c0182d.svg"
   },
   {
-    "revision": "eb6868cc5123f305bc81",
-    "url": "/mythos/js/app.60be21d8.js"
+    "revision": "f0ddd0993e72e9bf6469",
+    "url": "/mythos/js/app.e8dcbcd4.js"
   },
   {
     "revision": "95fef60db00fbb1dec63",
     "url": "/mythos/js/chunk-vendors.47350325.js"
   },
   {
-    "revision": "63a7d78d42c33b94fc7b957524795cac",
-    "url": "/mythos/img/logo.63a7d78d.svg"
+    "revision": "963d1698fffd7b5f6af4db4df3296443",
+    "url": "/mythos/img/instagram.963d1698.svg"
   },
   {
     "revision": "e3265da0b912786c641c",
     "url": "/mythos/js/about.69260e02.js"
   },
   {
-    "revision": "39b07d0111b4e1dc65afeaa4274ac14e",
+    "revision": "ba779ccf671eb0aa99caec396727f415",
     "url": "/mythos/index.html"
   },
   {
@@ -36,12 +36,16 @@ self.__precacheManifest = [
     "url": "/mythos/img/smadar.128104e1.jpg"
   },
   {
+    "revision": "06c0d45dbeb1eb72b3ed4caa48d26f25",
+    "url": "/mythos/img/phone.06c0d45d.svg"
+  },
+  {
     "revision": "26186585bf11cce6126943bded1c9a99",
     "url": "/mythos/img/orgad.26186585.png"
   },
   {
-    "revision": "963d1698fffd7b5f6af4db4df3296443",
-    "url": "/mythos/img/instagram.963d1698.svg"
+    "revision": "63a7d78d42c33b94fc7b957524795cac",
+    "url": "/mythos/img/logo.63a7d78d.svg"
   },
   {
     "revision": "57d11eeee50cd8b359b38917f52f435a",
@@ -60,7 +64,7 @@ self.__precacheManifest = [
     "url": "/mythos/img/arpilit-logo.f316496c.png"
   },
   {
-    "revision": "eb6868cc5123f305bc81",
-    "url": "/mythos/css/app.35e5a05d.css"
+    "revision": "f0ddd0993e72e9bf6469",
+    "url": "/mythos/css/app.cf1209a1.css"
   }
 ];
